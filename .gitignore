@@ -1,0 +1,7 @@
+# Liste des fichier et repertoires ignorés dans ce projet
+
+# Ignore les repertoire temp
+temp/*
+
+# Ignore les fichiers log
+*.log
