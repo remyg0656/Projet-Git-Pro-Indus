@@ -5,3 +5,6 @@ temp/*
 
 # Ignore les fichiers log
 *.log
+
+#ignore les xml
+*.xml
